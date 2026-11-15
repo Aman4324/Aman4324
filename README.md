@@ -35,18 +35,19 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Dashboard & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman4324&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman4324&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman4324&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman4324&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman4324&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman4324&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman4324&theme=tokyonight" width="100%" />
 </p>
 
 ---
