@@ -37,8 +37,8 @@
 ---
 
 ### 🌐 Connect with Me
-* **LinkedIn:** [Your LinkedIn Profile Link] *(Yahan apna link daal lena)*
-* **Email:** [Your Email Address] *(Yahan apni email daal lena)*
+* **LinkedIn:** [www.linkedin.com/in/amandeepsingh-dev]
+* **Email:** [amandeepsingh7060@gmail.com]
 
 <div align="center">
   <p><i>Thanks for visiting my profile! Let's build something awesome together. 🚀</i></p>
