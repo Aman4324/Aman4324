@@ -35,11 +35,7 @@
 
 ---
 
-### 📊 GitHub Dashboard & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman4324&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman4324&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
