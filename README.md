@@ -20,9 +20,9 @@
 ### 🛠️ Tech Arsenal & Skills
 | Category | Technologies / Tools |
 | :--- | :--- |
-| **Languages** | JavaScript, TypeScript, HTML/CSS, PHP |
-| **Frameworks & Libraries** | React, React Native |
-| **Databases & Tools** | MySQL, Git, GitHub, VS Code |
+| 🌐 **Languages** | JavaScript, TypeScript, HTML/CSS, PHP |
+| ⚙️ **Frameworks & Libraries** | React, React Native |
+| 🗄️ **Databases & Tools** | MySQL, Git, GitHub, VS Code |
 
 ---
 
@@ -37,8 +37,14 @@
 ---
 
 ### 🌐 Connect with Me
-* **LinkedIn:** [www.linkedin.com/in/amandeepsingh-dev]
-* **Email:** [amandeepsingh7060@gmail.com]
+<p align="left">
+  <a href="https://www.linkedin.com/in/amandeepsingh-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:amandeepsingh7060@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
   <p><i>Thanks for visiting my profile! Let's build something awesome together. 🚀</i></p>
